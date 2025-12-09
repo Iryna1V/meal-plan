@@ -35,4 +35,4 @@ npm run build
 The build will be generated in the 'dist' (or 'build') folder ready for deployment.
 
 # Demo:
-Here you can see the demo version of Meal plan web aplication: [Your meal plan](https://your-meal-plan.netlify.app/)
+Here you can see the demo version of Your meal plan web aplication: [Your meal plan](https://your-meal-plan.netlify.app/)

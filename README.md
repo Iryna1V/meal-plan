@@ -1,16 +1,35 @@
-# React + Vite
+# About Your meal plan web application 
+This React-based web application allows you to create, manage, and plan your meals for different days.
+Easily add new meal plans for different days with titles, ingredients, and meal details.
+The app is designed to work beautifully on various screen sizes, making it convenient for users on both desktop and mobile devices.
+Click the "ADD" button to create a new meal plan for the day.
+Click on a meal plan to select it. Edit the title, meal details, and ingredients for the selected meal plan. Use the "DELETE" button to remove a meal plan.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Functionalities:
+- The app is built with advanced React concepts and hooks implementation.
+- Simple user interface.
+- Responsive design.
+  
+# Tech stack:
+- React 19.0
+- CSS
+  
+# Run the application:
+Install dependencies:
 
-Currently, two official plugins are available:
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Start the development server:
 
-## React Compiler
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Then open http://localhost:3000 to view it in your browser.
+# Build for production:
+To create an optimized production build, run:
 
-## Expanding the ESLint configuration
+npm run build
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The build will be generated in the 'dist' (or 'build') folder ready for deployment.
+
+# Demo:
+Here you can see the demo version of Meal plan web aplication: [Your meal plan](https://your-meal-plan.netlify.app/)

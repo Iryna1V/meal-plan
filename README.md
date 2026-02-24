@@ -6,6 +6,7 @@ Click the "ADD" button to create a new meal plan for the day. Click on a meal pl
 
 
 The app is designed to work beautifully on various screen sizes, making it convenient for users on both desktop and mobile devices.
+<img width="1840" height="1255" alt="Rectangle (1)" src="https://github.com/user-attachments/assets/68eaa020-f6af-427f-94f8-0096d4d65a95" />
 
 
 # Functionalities:
